@@ -1,16 +1,13 @@
-## Hi there 👋
+# Guilherme
 
-<!--
-**guilherpsousa/guilherpsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
 
-Here are some ideas to get you started:
+Aos 14 anos eu tinha blogs e passava horas mexendo no HTML dos templates. Depois fiz uns programinhas em Visual Basic, como um gerenciador de downloads para o meu blog no Blogger. Agora estou voltando a programar, desta vez a sério, e com Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Onde estou agora
+
+- Terminei o curso de algoritmo e lógica de programação do Gustavo Guanabara.
+- Fazendo o curso de Python do básico ao avançado do Luiz Otávio Miranda, na Udemy.
+- Estudo de 8 a 10 horas por semana.
+- Em 2027 quero começar ADS e chegar lá já com uma boa base de Python.
