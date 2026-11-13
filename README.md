@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
 
-Aos 14 anos eu tinha blogs e passava horas mexendo no HTML dos templates. Depois fiz uns programinhas em Visual Basic, como um gerenciador de downloads para o meu blog no Blogger. Agora estou voltando a programar, desta vez a sério, e com Python.
+Aos 13 anos, em 2013, eu tinha blogs e passava horas mexendo em HTML, até ali foi o auge, onde eu havia chego mais próximo de códigos. Mas dali pra frente eu comecei a 'fuçar', Cheguei próximo de criar jogos em Unity, fiz programinhas básicos no finado Visual Basic... tudo ainda bem novo. Acabei me afastando das telas, por questões de "computador ruim" mesmo. E agora estou voltando a programar, desta vez a sério, e com Python.
 
 ## Onde estou agora
 
